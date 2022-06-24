@@ -4,7 +4,7 @@
 
 💼 &nbsp;I am Research Engineer at BUDDI AI\
 💡 &nbsp;I have 2+ years experience developing AI products in Computer Vision and Natural Language Processing domains\
-📄 &nbsp;You can find my Resume [here](https://drive.google.com/file/d/1CIeAyfdVDMos7GKPUaa9jeQb2V6tESGn/view)
+📄 &nbsp;You can find my Resume [here](https://drive.google.com/file/d/1Pmru6SPf1Hlir5gqGa_SrdONwHAtEpV1/view?usp=sharing)
 
 
 
