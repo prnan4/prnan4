@@ -1,6 +1,5 @@
 ## Hi there, I'm Nandhinee Periyakaruppan 👋
 
----
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop solutions to challenging problems.\
