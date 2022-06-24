@@ -11,6 +11,15 @@
 📄 &nbsp;You can find my Resume at [Link](https://drive.google.com/file/d/1CIeAyfdVDMos7GKPUaa9jeQb2V6tESGn/view).
 
 
+### 🤝 &nbsp;Connect with me:
+
+<a href="https://www.linkedin.com/in/nandhinee-pr/"><img align="left" src="images/linkedin.png" alt="Nandhinee Periyakaruppan | LinkedIn" width="21px"/></a> &emsp;
+<a href="https://www.instagram.com/bluebean66"><img align="left" src="images/instagram.png" alt="Nandhinee Periyakaruppan | Instagram" width="21px"/></a>
+<a href="https://mobile.twitter.com/nandhineepr"><img align="left" src="images/twitter.png" alt="Nandhinee Periyakaruppan | Twitter" width="21px"/></a>
+<a href="https://www.clubhouse.com/@nan4pr?utm_medium=ch_profile&utm_campaign=e0F6FtKzC9QoCz9m7CGbEg-250575"><img align="left" src="images/clubhouse.png" alt="Nandhinee Periyakaruppan | Clubhouse" width="21px"/></a>
+</br>
+
+
 ### 📫 &nbsp;Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
