@@ -24,7 +24,7 @@
 📝 &nbsp;Mentoring\
 👩‍💼 &nbsp;Women in STEM
 
-### 👀 &nbsp;Currently curious about
+### 👀 &nbsp;Currently curious regarding
 
 🧬 &nbsp;Interpretable AI\
 💻 &nbsp;Optimisation for Computer Vision algorithms\
