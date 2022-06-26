@@ -33,7 +33,7 @@
 ### ✨ &nbsp;I am also interested in
 👣 &nbsp;Fitness and Life sciences\
 ⚕️ &nbsp;Mental health and well-being\
-💃 &nbsp;Exploring different styles in dancing\
+💃 &nbsp;Exploring different dance forms\
 🎼 &nbsp; Indian classical music
 
 
