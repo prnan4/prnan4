@@ -2,7 +2,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-🎓 &nbsp;I am Computer Science graduate student at [UMass Amherst](https://www.umass.edu)\
+🎓 &nbsp;I am Computer Science graduate student at [UMass Amherst](https://www.cics.umass.edu)\
 💼 &nbsp;Previously I worked a Research Engineer at [BUDDI AI](https://www.google.com/search?client=safari&rls=en&q=buddi+ai&ie=UTF-8&oe=UTF-8)\
 💡 &nbsp;I have 2+ years experience developing AI products in Computer Vision and Natural Language Processing domains\
 🤓 &nbsp;When I am not reading about AI, I geek out in areas of data structures and algorithms \
