@@ -1,22 +1,11 @@
 ## Hi there, I'm Nandhinee Periyakaruppan 👋
 
 ### 👩‍💻 &nbsp;About Me
-
-🎓 &nbsp;I am a Computer Science graduate student at [UMass Amherst](https://www.cics.umass.edu)\
-💼 &nbsp;Previously I worked as a Research Engineer at [BUDDI AI](https://www.google.com/search?client=safari&rls=en&q=buddi+ai&ie=UTF-8&oe=UTF-8)\
-💡 &nbsp;I have 2+ years experience developing AI products in Computer Vision and Natural Language Processing domains\
-🤓 &nbsp;When I am not reading about AI, I geek out in areas of data structures and algorithms \
-📄 &nbsp;You can find my Resume [here](https://drive.google.com/file/d/1Pmru6SPf1Hlir5gqGa_SrdONwHAtEpV1/view?usp=sharing)
-
-
-
-### 🤝 &nbsp;Connect with me:
-
-<a href="https://www.linkedin.com/in/nandhinee-pr/"><img align="left" src="images/linkedin.png" alt="Nandhinee Periyakaruppan | LinkedIn" width="21px"/></a> &emsp;
-<a href="https://www.instagram.com/bluebean66"><img align="left" src="images/instagram.png" alt="Nandhinee Periyakaruppan | Instagram" width="21px"/></a>
-<a href="https://mobile.twitter.com/nandhineepr"><img align="left" src="images/twitter.png" alt="Nandhinee Periyakaruppan | Twitter" width="21px"/></a>
-<a href="https://www.clubhouse.com/@nan4pr?utm_medium=ch_profile&utm_campaign=e0F6FtKzC9QoCz9m7CGbEg-250575"><img align="left" src="images/clubhouse.png" alt="Nandhinee Periyakaruppan | Clubhouse" width="21px"/></a>
-</br>
+🎓 Currently I am pursuing an MS in Computer Science at [UMass Amherst](https://www.cics.umass.edu), with a keen interest in machine learning and software development. My research spans text-to-image generative models and Few-shot ICD Coding at Meta and the BioNLP Lab, UMass Amherst.\
+💡 As a Data Science Intern at [Zuora](https://www.zuora.com), I optimized operations for payment retries by migrating Spark DataFrames to Pandas and deploying solutions on AWS Lambda. I also contributed significantly to an NLP-driven IT Assistant SlackBot, reducing IT issue resolution time by 75%.\
+🚀 Previously, as a Research Engineer at [BUDDI AI](https://www.google.com/search?client=safari&rls=en&q=buddi+ai&ie=UTF-8&oe=UTF-8), I led a team in automating Document Content Extraction from EHRs. I proposed a Multi-task Object Detection network, achieving a 10% performance boost over competitors, and created scalable services handling 1.3 million hits per day.\
+📑 I hold a patent for ["DEXTER"](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20220284722), an end-to-end system for extracting table contents from electronic medical health documents. My publications focus on machine learning approaches for offense target identification in social media and severity scoring of lung tuberculosis in CT images.\
+🔍 I am actively seeking full-time roles in MLE and SDE, I bring academic rigor and practical experience to cutting-edge projects.
 
 
 ### 🌱 &nbsp;I am passionate about
@@ -25,11 +14,6 @@
 📝 &nbsp;Mentoring\
 👩‍💼 &nbsp;Women in STEM
 
-### 👀 &nbsp;Currently curious regarding
-
-🧬 &nbsp;Interpretable AI\
-💻 &nbsp;Optimisation for Computer Vision algorithms\
-⚙️ &nbsp;MLOps
 
 ### ✨ &nbsp;I am also interested in
 👣 &nbsp;Fitness and Life sciences\
@@ -40,9 +24,4 @@
 
 ### 📫 &nbsp;Like to meet me?
 
-You can shoot me an email at nandhinee2010@gmail.com! I'll try to respond as soon as I can.
-
-You can also pick a slot if you would like to chat with me about anything you are passionate about - but make sure to describe the agenda.
-
-<a href="https://calendly.com/nandhinee_periyakaruppan/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
+You can shoot me an email at nperiyakarup|@umass.edu! I'll try to respond as soon as I can.
